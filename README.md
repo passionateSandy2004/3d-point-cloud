@@ -1,5 +1,5 @@
-Clone the repository to your system and run the following command 
+Clone the repository to your system and run the following command in your terminal
 
 streamlit run inputmodu.py 
 
-and check it with your data 
+and test it with your data 
